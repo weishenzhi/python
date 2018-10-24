@@ -9,3 +9,6 @@ c = 3
 
 def index():
         return 'hello world'
+
+def index1():
+         return 'hello world'
